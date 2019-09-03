@@ -531,3 +531,178 @@ This shows the speaker's reaction to or realization of what was just heard/ pres
 
 이거 정말 맛있네요. This is really delicious (delicious: 맛있다)
 
+### Def: $V_{\cancel{요}}$
+
+We now define a new verb form. $V_{\cancel{요}}$ is basically like $V$ with standard 아요/어요 ending. However, we **CHOP** off the 요. 
+
+e.g. $V_{\cancel{요}}$ of 만나요 is 만나.
+
+### 7.1 Describing one's experience. To TRY/ have done.
+
+> $V_{\cancel{요}}$  보다
+
+Recall that 보다 means to see. We can take it as a translation of "to try and see."
+
+e.g. 김치를 먹어 보세요. Try to eat kimchi.
+
+When used with the past tense of 보다 (봤어요), it **expresses** **past** experience.
+
+examples.
+
+불고기 먹어 봤어요. I've tried bulgogi
+
+영국에 가 봤어요? Have you been to the UK?
+
+### 7.2 - Expressing desire " Want to.."
+
+To express the first person or second person desire, we use
+
+>$V_b$고 싶다 (conj: 싶어요)
+
+e.g. 한국를 배우고 싶어요. 
+
+너 런던에 가고 싶어요? Do you want to go to London?
+
+However, to express **third person desire**, we use
+
+> $V_b$고 싶어하다 (하다 verb group)
+
+e.g. 마이클은 한국에서 영어를 가르치고 싶어해요. Michael wants to teach English in Korea.
+
+### 7.3 Expressing one's intention  "I will..."
+
+Indicates the speaker's voluntary will or intention. **ONLY** used for **first person**. Note that this is **casual**.
+
+> $V_b$(으)ㄹ게요
+
+열심히 할게요. (열심히: Diligently)
+
+### 7.4 The honorific verb base $V_{hb}$ 
+
+All verbs have a honorific base, with which we replace the $V_b$'s from all rules to show respect to listener. The following relation holds:
+
+> $V_{hb} = V_b$(으)시
+
+where (으) is added when we have $V_b$ ending in a consonant.
+
+e.g. 가다 -> 가시
+
+만나다 -> 만나시
+
+There are some exceptions! Note:
+
+먹다 -> 드시 / 잡수시
+
+마시다 -> 드시
+
+자다 -> 주무시
+
+좋다 -> 잫으시
+
+Note that the conjugation of $V_{hb}$ is $V_b$(으)세요 (Recall that  this is the honorific ending)
+
+### 7.5 Intention or supposition marker 
+
+We express intention using this marker. **NOTE that** we **can** use this with the **second** person. But I don't think we can use with third person.
+
+> $V_b$ 겠다 (conj: 겠어요)
+
+e.g.  
+
+가시겠어요? Would  you like to go (formal)?
+
+We can also express speaker's **guess** or **inference**. **"it must be". "i guess". "i bet"**. 
+
+내일은 날씨가 잫겠어요. I bet tomorrow's weather will be good.
+
+너 내일 칠시에 깨울수없겠어요. I bet you can't wake up tomorrow.
+
+### 7.6 - Formal polite sentence ending - ㅂ니다 / 습니다
+
+Note that this functions exactly like 아요/어요, however it is much more formal. It is used in formal settings like conferences, work, or TV news. 
+
+After a Vowel $V_b$, we do:
+
+> $V_b$ ㅂ니다
+
+After a consonant-ending $V_b$, we do:
+
+> $V_b$습니다
+
+Note that this applies to honorifics as well! Just use $V_{hb}$ in place of $V_b$ in the above.
+
+Note that this sounds like 'imnida' instead of 'ibnida'. This is because the 'n' after the 'b' makes a nasal 'b' (which is like 'm').
+
+e.g. 가요 -> 갑니다. 잫아요 -> 잫습니다
+
+The polite ending of 이다 (이에요 / 예요) is 입니다. Note that the honorific polite ending is 이십니다 if we take 이다's $V_{hb}$.
+
+Note that the ㅂ니다/습니다 form is used for **statements only**. **For questions** ,use
+
+>  $V_b$ㅂ니까?
+
+where $V_b$ ends in a vowel. For consonant ending $V_b$'s, we use
+
+> $V_b$습니까?
+
+e.g. 밥 드십니까? (Have you eaten rice)
+
+Note that for past tense, the same rules apply! 
+
+However, $V_{hb}$ past tense, we take out the 시, and use 셨습니다. **We define** the minus operator to take out the 시 from the suffix, as follows:
+
+> $V_{hb}$ - 시 + 셨습니다
+
+### 7.7 expressing "only"   - 밖에 
+
+This is like japanese しか. It is followed by a negative word such as 안, 못, 없다, 모르다 ( to not know). 밖 literally means outside.
+
+Note that this gives the **nuance** that the preceding noun is **less** than what the speaker wishes to have.
+
+> __밖에 NEGATIVE VERB /statement
+
+민수 밖에 몰라요. (I only know minsu)
+
+미라씨 밖에 안 왔어요. No one came except mira.
+
+### 7.8 Expressing "only" - 만
+
+
+
+This is like 밖에, but **Without** its nuance. Also, the verb is not negated.
+
+> __만 verb
+
+미씨만 왔어요.
+
+조금만 마셔요. I only drank a little
+
+잠깐만 기다리세요. Please wait just a second.
+
+### 7.9 Request for giving 
+
+To request someone to give $N$ to us, we say:
+
+> $N$ 좁 주다
+
+불 좀 주세요. Please give me water
+
+### 8.2 Expressing noun reason using 때문에
+
+때문에 is attached to a noun $N$ that was the cause for something $S$.
+
+> $N$ 때문에 $S$
+
+Note that 때문에 is pronounced 때메 in colloquial speach.
+
+일 때문에 바빠요. Because of work, I'm busy.
+
+날씨 때문에, 지금 안 가요. We can't go because of the weather.
+
+### 8.3 Expressing duration of time .. 동안 (for ... , during)
+
+For some action $A$ happening during time period $T$, we form:
+
+> $T$ 동안 $A$
+
+e.g. 일 년 동안 운동했어요. 
