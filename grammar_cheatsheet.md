@@ -136,13 +136,398 @@ e.g. 두 시에 만아요. meet at 2.
 
 ### 3.4 Providing reasons using 아서, 어서.
 
+We attach to the base of a verb / adjective. This connects two clauses. For a verb base $V_b$, and a consequence $E$,  we have
+
+> $V_b$ 아서/어서,  $E$
+
+In other words, Event E was caused by $V_b$.
+
+늦어서 죄송함니다. (I am sorry that I am late)
+
+바빠서 안 가요. Since I'm busy, I can't go.
+
+### 3.5 Subject marker 이/가
+
+> $N$ 이/가 ...
+
+we show that $N$ is the subject of the sentence. Use 이 if $N$ ends in consonant. 가 otherwise.
+
+E.g.
+
+제임스가 바빠요. (James is busy).
+
+### 3.6 Object marker 을/를
+
+> $O$을/를  $V$...
+
+We are doing action $V$ onto $O$. By using this particle, we are indicating $O$. A similar consonant/vowel ending structure is applied like in **3.5**. 
+
+e.g.
+
+ 친구를 만나요. Meeting a friend.
+
+내일  일을 시작해요. Start work tomorrow. (Work here is the object.)
+
+### 3.7 Topic marker 은/는
+
+> $N$ 은/는
+
+3 purposes:
+
+1. Indicates that $N$ is the central topic / focus.
+   e.g. 나는 미국 사람이에요. I am american
+
+2. To contrast / compare two things.
+
+   아이스크림은 없어요. 아이스커피믐 있어요. I don't have ice cream, but I have iced coffee.
+
+3. Signal shift of topic
+
+   e.g. when we want to change topic to a new $T_{new}$, we use $T_{new}$ 은/는.
+
+### 3.8 also, too, even 도
+
+> $N$ 도
+
+emphasizes preciding noun with meaning of "also"/ too/ even
+
+e.g. 제임스눈 바빠요. 미라도 마빠요. James is busy. Miller is also busy.
+
+### 3.9 부터 from 
+
+Attached to nouns or adverbs. This indicates the **starting point** in **time** or **place**.
+
+> PLACE/TIME부터  
+
+내일부터 내가 하국어를 공부해요.. From Tomorrow on, I will study korean.
+
+오늘부터 아주 바빠요. From today on, I am very busy.
+
+### 4.2 - seeking confirmation using (이요)
+
+It's like: [you mean] ___ ?
+
+> $N$(이)요?
+
+e.g. 롯데 호텔이요? You mean the lotte hotel?
+
+### 4.3 Directions
+
+For a direction $D$, we have
+
+> $D$ 쪽
+
+| Direction                   | Korean translation |
+| --------------------------- | ------------------ |
+| This way                    | 이 쪽              |
+| That way                    | 그 쪽              |
+| That way over there         | 저 쪽              |
+| Left hand side              | 윈 쪽              |
+| Right hand side             | 오른 쪽            |
+| Which direction, which side | 어느 쪽            |
+
+### 4.4 Going towards a direction
+
+For some direction $D$ as in **4.3**, we may expression travel to $D$ as follows:
+
+> $D$ 쪽으로 가요.
+
+(go towards $D$)
+
+We can also use places as a direction (NOT necessarily a destination)
+
+e.g. 집으로 가요. I am going towards home.
+
+### 4.5 you will see (landmark)
+
+Directions are usually provided using a landmark as a subject. For a landmark $L$, we form:
+
+> $L$이/가 보여요.
+
+Somewhat similar to japanese 見えます. 〜〜が見えます。 In otherwords, $L$ is able to be 'seen'.
+
+은행이 보여요. You'll see a bank
+
+### 4.6 Location using reference place
+
+On top of, behind, etc. are 'relative' positionings. 
+
+e.g. the book is on top of the table. Book here is the main object. 'on top of' is the relative positioning. 'Table' is the reference object from which we relatively position the main object..
+
+For an object $N$ to be relatively positioned $R$ from some reference object $O$ of we indicate relative placement as follows:
+
+> $N$이/가 $O$ $R$에 V....
+
+| Relative position marker | Korean |
+| ------------------------ | ------ |
+| Next to                  | 옆     |
+| In front of              | 앞     |
+| At the back of           | 뒤     |
+| on the opposite side of  | 건너편 |
+
+e.g. 
+
+신라호텔 옆에 있어요. (It is next to hotel Silla)
+
+###  4.7 Indicating the taking of amount of time 
+
+For some time quantity $T$, we have:
+
+> $T$ 거리다
+
+Note that this the polite ending of this verb is 거려요 (group 2 contracted).
+
+e.g. 오 분 걸려요. It takes 5 mins.
+
+### 4.8 Riding and getting off a vehicle
+
+To get on /ride a vehicle $H$, we form:
+
+> $H$을/를 타다 (polite: 타요)
+
+To get off from vehicle $H$, we form:
+
+> $H$에서 내리다 (polite: 내려요)
+
+에서 is a particle that needs attention. We thus dive into it in the next:
+
+### 4.9 Location marker
+
+Attached to a place noun $N$, it indicates that some dynamic activity verb $V$ is undertaken at $N$. It could also mean 'to be from'.
+
+> $N$에서 $V$
+
+e.g. 
+
+나는 서울 백화점에서 쇼핑해요. I I shop at seoul dep store
+
+나는 영국에서 왔어요. I come from UK.
+
+### 4.10 - connecting sentences using 그리고.
+
+그리고 means "and" and is used to connect sentences
+
+제임스는 영국사람이에요. 그리고 수잔은 미국 사람이에요. 
+
+### 4.11 Expressing the purpose of going/attending/coming
+
+> $V_b$(으)러 가다/오다 (와요)/다니다 (다녀요) 
+
+This indicates the purpose of going/coming/attending to somewhere.
+
+친구 만나러 가요. I go to meet my friend.
+
+한국어 배우러 연세대에 단녀요. I attend yonsei university to study korean
+
+### 5.1 - Indicating This/that/over there
+
+| Word              | Korean |
+| ----------------- | ------ |
+| This              | 이거   |
+| That              | 그거   |
+| That (over there) | 저거   |
+
+이거 주세요. Give this to me
+
+이거 얼마예요? How much is this?
+
+### 5.2 Indicating continuing action
+
+To indicate continuous action of $V$, we form:
+
+> $V_b$고 있다
+
+where $V_b$ is the verb base of $V$. 
+
+e.g. 일하고 있어요. (Sedang kerja)
+
+### 5.3 ㅂ irregular verbs / adjectives
+
+Some verbs /adjectives are wierd. These ㅂ-types are one of them. Note that NOT ALL ㅂ-types are irregular like this. 
+
+To conjugate the standard polite form, the formula is to apply the transformation:
+
+> ㅂ $\rightarrow$ 우
+
+to the verb's ㅂ end of the base. Then, we **add** 어요 by verb group (2) conjugation rule of **2.1**, and **contract**.
+
+e.g. 쉽다 $\rightarrow$ 쉬 + 우 + 어요 -$\rightarrow$ 쉬워요.
+
+| Dic form              | 아요/어요 form |
+| --------------------- | -------------- |
+| 쉽다 (be easy)        | 쉬워요         |
+| 어렵다 (be difficult) | 어려워요.      |
+| 덥다 (be hot)         | 더워요         |
+| 춥다 (be cold)        | 추워요         |
+| 가깝다 (be close)     | 가까워요       |
+
+Exceptions:
+
+1. 돕다 (to help), ㅂ changes to 오. So we have 도와요.
+2. Regular ㅂ words don't follow this rule. 좀다 ( to be narrow) is conjugated to 좁아요.
+
+### 5.4 ㄷ irregular word
+
+When ㄷ irregular words are followed by a vowel, ㄷ in the base changes to ㄹ. Let's remember two of these words:
+
+| Dic form         | Conjugation | Honorific conjugation |
+| ---------------- | ----------- | --------------------- |
+| 듣다 (to listen) | 들어요.     | 들으세요              |
+| 걷다 (to walk)   | 걸어요      | 걸으세요              |
+
+### 5.5 Connecting clauses using ..지만
+
+> Clause 1 $V_b$지만 clause 2
+
+We attach 지만 to the verb base $V_b$ to express meaning "although" or "but".
+
+e.g. 바쁘지만 한국어를 매일 공부해요.
+
+### 5.6 here/there/over there
+
+| word                                             | Korean |
+| ------------------------------------------------ | ------ |
+| Here (near speaker)                              | 여기   |
+| There (near listener, away from speaker)         | 거기   |
+| Over there (away from both speaker and listener) | 저기   |
+
+여기 있어요. It's here.
+
+### 5.8 으 irregular words
+
+remember these!
+
+| dict form       | standard ending |
+| --------------- | --------------- |
+| 바쁘다 (busy)   | 바빠요          |
+| 여쁘다 (pretty) | 여뻐요          |
+| 크다 (big)      | 커요            |
+| 쓰다 (to write) | 써요.           |
+
+### 5.9 ㄴ 데요 Sentence ending 
+
+This can be used interchangeably with 아요/어요. 
+
+> | type                   | formula                                        |
+> | ---------------------- | ---------------------------------------------- |
+> | Verb base ($V_b$)      | +는                                            |
+> | Adjective base $(V_b)$ | after a consonant: 은데요. After vowel, ㄴ데요 |
+> | Noun                   | After consonant: 인데요. After vowel, ㄴ데요   |
+> | 있, 없                 | +는데요                                        |
+
+e.g. 크다 becomes 큰데요. (since 크 ends in a vowel, we add the ㄴ)
+
+영화가 재미있는데요. The movie is interesting.
+
+제임스는 학생이 아닌데요. James is not a student.
+
+### 5.10 - connecting two clauses using 고
+
+We use this to connect a verb ending clause with another clause. 
+
+For a verb / adjective base $V_b$, we have:
+
+> CLAUSE A $V_b$고  CLAUSE B
+
+e.g. 방이크고 잫아요. room is big and nice.
+
+For noun $N$,
+
+> CLAUSE A $N$(이)고 CLAUSE B
+
+e.g. 수잔은 학생이고 제임스는 화사원이에요. Susan is a student and James is an employee.
+
+**NOTE**: 하고 connects nouns, yet 고 connects clauses.
+
+e.g. 제임스하고 수잔은 친구예요. James and susan are friends.
+
+### 6.2 Asking 'how many'
+
+To ask for the quantity of some $N$, with unit counter $C$,  in regards to some verb $V$, we orm:
+
+>$N$(이/가/는) 몇 $C$ $V$
+
+e.g. 
+
+사람이 몇 명 있어요? How many people are there (명 is the counter for people)
+
+지금 몇 시예요? What time is it now?
+
+책ㅣ 몇 권 있어요? How many books are there?
+
+사무실이 몇 층 있어요? On What floor is your office located?
+
+### 6.3 before doing '...'
+
+To indicate something before doing some $V$, we say:
+
+> ......... $V_b$기 전에 ...........
+
+영화보기 전에 저녁을 먹었어요. We ate dinner before watching movie.
+
+### 6.4 Asking listener's suggestion / opinion e.g. shall we? Do you think..?
+
+You can suggest something or ask the listener's opinion using 
+
+> $V_b$(으)ㄹ까요.
+
+e.g. 
+
+갈까요. Shall i go? shall we go?
+
+몇 시에 만날까요? What time should we meet?
+
+사장님 올까요? Do you think the president will come?
+
+### 6.5 Expressing one's intention or ask for listener's intention
+
+To express your intention to do $V$, or ask for listener's intention to do $V$, we form:
+
+> $V_b$(으)ㄹ래요
+
+Note that this is colloquial. Not really used in formal
+
+A: 뭐 마실래요? What do you want to drink?
+
+B: 차 마실래요. I'll have tea.
+
 ### 6.6 Past Tense 았어요/었어요
 
+> $V_b$았어요/었어요  / ㅆ 어요.
 
+e.g. 왔어요. you came.
+
+공부했어. Studied.
+
+배웠어요. Learned
+
+잫았어요. Was good.
 
 ### 6.7 ~거든요 'its because .. , you see... 
 
+We attach this to verbs, adjectives and nouns to provide explanation or reason.  
 
+For a verb / adjective $V$, 
+
+> $V_b$거든요
+
+For a noun $N$, we have
+
+> $N$(이)거든요
+
+E.g. 
+
+내일 모임에 못 가요. 요즘 바쁘거든요.
+
+그 영화를 보세요. 아 주 재미있거든요. Watch that movie. It's really interesting.
+
+핸드폰이 없거든요. 집으로 전화 하세요. I don't have a handphone (you see). So call me at home.
 
 ### 6.8 네요 Sentence ending
+
+This shows the speaker's reaction to or realization of what was just heard/ presented. It often involves **surprise**/ **epiphany**.
+
+> $V_b$네요
+
+이거 정말 맛있네요. This is really delicious (delicious: 맛있다)
 
