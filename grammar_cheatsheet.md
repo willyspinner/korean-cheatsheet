@@ -264,6 +264,12 @@ For an object $N$ to be relatively positioned $R$ from some reference object $O$
 | In front of              | 앞     |
 | At the back of           | 뒤     |
 | on the opposite side of  | 건너편 |
+| inside                   | 안 /속 |
+| above                    | 위     |
+| below, underneath        | 밑     |
+| lower, down              | 아래   |
+| nearby, in the vicinity  | 근처   |
+| between                  | 사이   |
 
 e.g. 
 
@@ -683,7 +689,7 @@ This is like 밖에, but **Without** its nuance. Also, the verb is not negated.
 
 To request someone to give $N$ to us, we say:
 
-> $N$ 좁 주다
+> $N$ 좀 주다
 
 불 좀 주세요. Please give me water
 
@@ -706,3 +712,120 @@ For some action $A$ happening during time period $T$, we form:
 > $T$ 동안 $A$
 
 e.g. 일 년 동안 운동했어요. 
+
+### 8.4. Conjecture or intention "will; be going to ..."
+
+”かもしれない” の感じ?
+
+One can indicate one's intention or conjecture using the below:
+
+> $V_b$ (으)ㄹ  거예요.
+
+where the (으) is added when $V_b$ ends in a consonant.
+
+It will probably rain tomorrow - 내일 비가 올 거예요.
+
+It will probably not be fun - 재미없을 거예요.
+
+I will probably be very busy next week - 다음 주에 아마 많이 바쁠 거예요.
+
+### 8.5 - Verbs of giving 주다, 주시다, 드리다  "to give"
+
+There are three types of 'giving' verbs.
+
+1. (謙譲語）When we are giving something to distant equals or our seniors, we use:
+
+   > 드리다 
+
+	e.g. (to your boss)내일 드리겠습니다. (I will give it to you tomorrow)
+2. （尊敬語) When describing a senior giving something
+
+   > 주시다
+
+	e.g. (your boss gives it to you) 과장님이 주셨어요. 
+3. (丁寧語) giving your equals / juniors
+
+   > 주다
+
+### 8.6 Seeking agreement using 죠?
+
+지요 or 죠is attached to verbs, adjectives or nouns to seek listener's confirmation / agreement
+
+> $V_b$ 죠?
+
+> $N$이죠?
+
+e.g. 전에 한번 만났죠?
+
+김ㅓㄴ생님이죠?
+
+많이 기다렸죠?
+
+### 8.7 expression of Condition (If/when) & wishes (으)면
+
+Note that this can mean IF or WHEN.  
+
+> Condition (으)면, Consequence
+
+If the condition ends in a verb, we use its base $(V_b)$.
+
+이번주말 날씨가 좋으면 여행을 갈 거예요.
+
+비싸지 않으면 살 거예요.
+
+**Expressing wish**
+
+By using past tense conditional form, we can express our wishes:
+
+> Wish (Past tense) 면 좋겠다
+
+한국말을 잘 했으면좋겠다. I wish I could speak korean well. 
+
+일직 퇴근했으면 좋갰다. I wish I could leave my work early
+
+### 8.8 Expressing "when" using (으)ㄹ떼
+
+This connects two clauses and is used to **mark the time** of the preciding clause. 
+
+"***when you ...., ....?***"
+
+> TIME/ACTION (으)ㄹ 떼, ......
+
+e.g. 
+
+시간 있을 때 뭐 하세요? When you have time, what do you usually do?
+
+한국말 공부할 떼 친구들 도와줘요. My friends help me when I study korean.
+
+### 8.9 Providing background info using (으)ㄴ데/는데
+
+For adjective $A$(except 있다 / 없다 adj), we have:
+
+> $A_b$(으)ㄴ데, ....
+
+Then for the other verbs, take the verb base $V_b$. We have:
+
+> $V_b$는데
+
+Finally, for noun $N$, we have:
+
+> $N$(이)ㄴ데
+
+Examples:
+
+한국사람인데 영어를 아주 해요.
+
+박선생님을 만났는데  아주 친절하셨어요. 
+
+최선을 다 했는데 안 됐어요. (I studied hard but failed the test).
+
+한국에서 오래 살았는데 아직 한국어를 잘 못해요.
+
+### 8.10 - Making a suggestion using (으)ㅂ시다
+
+> $V_b$(으)ㅂ시다
+
+갑시가 Let's go.
+
+내일까지 일을 모두 끝냅시다.
+
