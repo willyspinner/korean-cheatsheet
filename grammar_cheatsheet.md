@@ -279,9 +279,9 @@ e.g.
 
 For some time quantity $T$, we have:
 
-> $T$ 거리다
+> $T$ 걸리다
 
-Note that this the polite ending of this verb is 거려요 (group 2 contracted).
+Note that this the polite ending of this verb is 걸려요 (group 2 contracted).
 
 e.g. 오 분 걸려요. It takes 5 mins.
 
@@ -449,7 +449,7 @@ e.g. 제임스하고 수잔은 친구예요. James and susan are friends.
 
 ### 6.2 Asking 'how many'
 
-To ask for the quantity of some $N$, with unit counter $C$,  in regards to some verb $V$, we orm:
+To ask for the quantity of some $N$, with unit counter $C$,  in regards to some verb $V$, we form:
 
 >$N$(이/가/는) 몇 $C$ $V$
 
@@ -643,7 +643,7 @@ e.g. 가요 -> 갑니다. 잫아요 -> 잫습니다
 
 The polite ending of 이다 (이에요 / 예요) is 입니다. Note that the honorific polite ending is 이십니다 if we take 이다's $V_{hb}$.
 
-Note that the ㅂ니다/습니다 form is used for **statements only**. **For questions** ,use
+Note that the ㅂ니다/습니다 form is used for **statements only**. **For questions** , use
 
 >  $V_b$ㅂ니까?
 
@@ -657,7 +657,7 @@ Note that for past tense, the same rules apply!
 
 However, $V_{hb}$ past tense, we take out the 시, and use 셨습니다. **We define** the minus operator to take out the 시 from the suffix, as follows:
 
-> $V_{hb}$ - 시 + 셨습니다
+> $V_{hb}$ $-$ 시 + 셨습니다
 
 ### 7.7 expressing "only"   - 밖에 
 
@@ -829,3 +829,86 @@ Examples:
 
 내일까지 일을 모두 끝냅시다.
 
+### 9.1 Expressing "If one wants / intends to do..." (으)려면
+
+Suppose we intend to do $V$. 
+
+If $V_b$ ends in a vowel or ㄹ, we use:
+
+> $V_b$려면 ....
+
+Else,
+
+> $V_b$으려면 
+
+미국에 가려면 비자가 필요해요? 
+
+한국말을 잘 하려면 한국사람을 자주 만나세요.
+
+### 9.2. - Negative command or request - 지  마세요.
+
+When we want to say "Don't do $V$",
+
+> $V_b$지 마세요.
+
+술울 많이 마시지 마세요.
+
+### 9.3 - Expressing obligation 아/어야 되다
+
+When we say that we MUST do some $V$, then we say:
+
+> $V_{\cancel{요}}$야 되다
+
+Note that the conjugation of 되다 is 돼요.
+
+NOTE that 되다 can be replaced with 하다.
+
+e.g.
+
+언제까지 그 일을 끝내야 됩니까? - When must we finish the work?
+
+회의에 참석해야 돼 - I have to attend the meeting.
+
+### 9.4 - Making comparisons using ...보다 (더)
+
+For an adjective ADJ, there are two ways to say that A is more ADJ than B. 
+
+1. > [A]이/가   [B]보다   더   ADJ
+
+2. > [B]보다  [A]이/가   더   ADJ 
+
+Note that the use of 더 is optional. It means 'more'.
+
+e.g.
+
+서울이 부산보다 더 복잡해. Seoul is more crowded than Busan.
+
+이게 저거보다 더 비싸요. This is more expensive than that. 
+
+어제보다 오늘이 더 추워요.
+
+지하철이 버스보다 빨라요.
+
+### 9.5 Polite request - 아/어 주세요.
+
+To say "Please do $V$ for me", we say:
+
+> $V_{\cancel{요}}$ 주다
+
+Literally, "please give me the service of doing $V$ for me"
+
+잠깐 기다려 주세요. (Please wait for a second).
+
+그 게이크를 사 줘. Buy the cake for me.
+
+The more formal way to say 주세요. is 
+
+> $V_{\cancel{요}}$ **주십시오.**
+
+### 9.6 - A 에서 B 까지 (time) 걸리다
+
+To say that it takes time $T$ from location $A$ to $B$, we say:
+
+> $A$ 에서 B까지 $T$ 걸리다 
+
+서울에서 대전까지 얼마나 걸려요? How long does it take from Seoul to Daejeon?
