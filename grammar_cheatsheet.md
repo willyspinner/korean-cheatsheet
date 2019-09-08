@@ -673,8 +673,6 @@ Note that this gives the **nuance** that the preceding noun is **less** than wha
 
 ### 7.8 Expressing "only" - 만
 
-
-
 This is like 밖에, but **Without** its nuance. Also, the verb is not negated.
 
 > __만 verb
@@ -723,11 +721,17 @@ One can indicate one's intention or conjecture using the below:
 
 where the (으) is added when $V_b$ ends in a consonant.
 
-It will probably rain tomorrow - 내일 비가 올 거예요.
+NOTE: the informal way to say this is:
+
+> $V_b$ (으)ㄹ 거야.
+
+ It will probably rain tomorrow - 내일 비가 올 거예요.
 
 It will probably not be fun - 재미없을 거예요.
 
 I will probably be very busy next week - 다음 주에 아마 많이 바쁠 거예요.
+
+
 
 ### 8.5 - Verbs of giving 주다, 주시다, 드리다  "to give"
 
@@ -912,3 +916,98 @@ To say that it takes time $T$ from location $A$ to $B$, we say:
 > $A$ 에서 B까지 $T$ 걸리다 
 
 서울에서 대전까지 얼마나 걸려요? How long does it take from Seoul to Daejeon?
+
+### 10.1 -contracted Pronouns with subject(이/가), object((ㄹ)을) or topic ((ㄴ)은) particle 
+
+There are shortened ways to say 이/그/저거(는/가/을).
+
+| type            | 이것 | 그것 | 저것 | 누구 | 나   | 저 (I polite) |
+| --------------- | ---- | ---- | ---- | ---- | ---- | ------------- |
+| subject - 이/가 | 이게 | 그게 | 저게 | 누가 | 내가 | 제가          |
+| object (을)     | 이걸 | 그걸 | 그걸 | 누굴 | N/A  | N/A           |
+| topic (은)      | 이건 | 저건 | 저건 | N/A  | N/A  | N/A           |
+
+### 10.2 Asking permission using 아/어도 돼요?
+
+If we want to ask permission to do action $V$, then we say:
+
+> $V_{\cancel{요}}$도 뒤다
+
+일찍 퇴근해도 뒵니까? Is it ok to leave my office early
+
+To give permission for $V$ we say,
+
+> $V_{\cancel{요}}$도 되다/됀찮다
+
+To deny $V$, we say:
+
+> $V_b$(으)면 안 되다
+
+i.e .$V$ isn't happening.
+
+### 10.3 - The noun modifier for adjectives (으)ㄴ $A_m$
+
+When an adjective $A$ modifies the following noun $N$, we use do the following:
+
+> $A_b$(으)ㄴ    $N$
+
+e.g. 바쁜 사람
+
+작은 집, 큰 집.
+
+Note that for 있다/없다 adjectives $I$, they take in the modifier 는.
+
+> $I_b$는 $N$
+
+재미있는 사람
+
+For a  ㅂ irregular adjective $B$ like 춥다 and 덥다, we take away the ㅂ. Specifically:
+
+> $B - $ㅂ 운   $N$
+
+추운 날씨 (cold weather)
+
+가까운 곳 (a place nearby)
+
+All these modified adjectives  will be called $A_m$.
+
+### 10.4 - The noun modifier for verbs, $V_m$
+
+We want to use a verb $V$ to modify a noun $N$. To achieve this, we introduce a 'modifying' form, $V_m$, as below:
+
+> | Tense   | modifying form $(V_m)$ |
+> | ------- | ---------------------- |
+> | Past    | $V_m =  V_b$(으)ㄴ     |
+> | Present | $V_m = V_b$는          |
+> | Future  | $V_m = V_b$(으)ㄹ      |
+
+And finally, we describe said noun $N$ as follows:
+
+> $V_m$    $N$ 
+
+Examples:
+
+여기가 제가 자주 오는 커피숍이에요. (present)
+
+내가 잫아하는 영화는 코미디 영화예요. (present tense)
+
+내일 아침에 먹을 음식은 이 느파게티예요. (future tense)
+
+자난 주에 만난 사람이 최선생님이에요. (past tense)
+
+### 10.5 "It seems, It appears, I think"
+
+To say that it seems $V$, We use a modified adjective/verb:
+
+> $V_m$    거   같다
+
+Note that in colloquial speech, it often takes the form: 거 같애요.
+
+examples:
+
+아픈 거 같아요. (You seem to be sick.)
+
+지갑을 잃어버린 거 같아. I seem to have lost my wallet.
+
+차가 많이 막힐 거 같아 It seems that traffic **will** be congested. *NOTE THE FUTURE TENSE HERE!*
+
