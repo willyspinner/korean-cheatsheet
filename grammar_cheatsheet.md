@@ -619,7 +619,7 @@ e.g.
 
 We can also express speaker's **guess** or **inference**. **"it must be". "i guess". "i bet"**. 
 
-내일은 날씨가 잫겠어요. I bet tomorrow's weather will be good.
+내일은 날씨가 좋겠어요. I bet tomorrow's weather will be good.
 
 너 내일 칠시에 깨울수없겠어요. I bet you can't wake up tomorrow.
 
@@ -1011,3 +1011,285 @@ examples:
 
 차가 많이 막힐 거 같아 It seems that traffic **will** be congested. *NOTE THE FUTURE TENSE HERE!*
 
+### 11.1 Tentative plan - (으)ㄹ까 하다
+
+> $V_b$(으)ㄹ까 하다/생각하다
+
+means i'm **thinking** of doing $V$. It means that the speaker **hasn't** made a firm decision yet but is **considering it**.
+
+Note that 생각하다 is an alternative to 하다 here. It means to 'think'.
+
+e.g. 이사를 할까 생각해요. I am thinking of moving house.
+
+### 11.2 - Expressing one's decision (기로 하다)
+
+As opposed to 11.1, this one expreses a **scheduled plan / decision**. Similar to に決まる・決めた。
+
+> $V_b$기로 하다
+
+Note that when we have **decided** already (which is normally the common case), we use 했다 (past tense of 'decide')
+
+> $V_b$기로 했다
+
+e.g. 네년에 프강스로 유학가기로 했어요.
+
+To express a decision **not** to do something, simply use
+
+> 안 $V_b$ 기로 하다 or $V_b$지 않기로 하다.
+
+그 회사하고 거래하지 않기로 했어요. - we decided not to do business with the company.
+
+### 11.3 - Expressing "or" using ...(이)나
+
+Attached to nouns, this means 'or'.  For example, for nouns $N_1$ and $N_2$,
+
+> $N_1$(이)나 $N_2$
+
+means $N_1$ or $N_2$. Note that 이 is used only when $N_1$ ends in a consonant (As usual).
+
+For colloquial speech, people often use 아니면 (or else):
+
+> $N_1$ 아니면 $N_2$
+
+### 12.2 에 대하다 - to be about
+
+Regard  "to be about" as an adjective, and all the adjective rules we've been learning so far apply:
+
+> $A$에 대하다
+
+^ to be about $A$.
+
+### 12.3 - ...ever e.g. whenever, wherever, whatever
+
+For a question word $Q$, to make it a $Q_{\text{ever}}$, use the following:
+
+> $Q$든지
+
+note that the 든지 is frequently pronounced as "dunji" (the ㄷ is voiced)
+
+| Question word | engels | ...ever      |
+| ------------- | ------ | ------------ |
+| 누구          | who    | 누든지       |
+| 뭐            | what   | 뭐든지       |
+| 어디(서)      | where  | 어디(서)든지 |
+| 언제          | when   | 언든지       |
+| 왜            | why    | N/A          |
+| 어떻게        | how    | 어떻게든지   |
+
+### 12.4 - ability and possibility
+
+To say that you can do $V$,
+
+> $V_b$(으)ㄹ 수 있다
+
+To say that you can't do $V$, 
+
+> $V_b$(으)ㄹ 수 없다
+
+Note that if $V_b$ ends in ㄹ, then 수 있/없다 is used.
+
+e.g. 누구든 할 수 있는 쉬운 일이야. It's such an easy thing that anyone can do it.
+
+불고기를 만들 수 있다.
+
+### 12.5 Asking a favor using 좀 부탁합니다
+
+When we want to request for something / to go somewhere / to someone $S$, we say:
+
+> $S$ 좀 부탁하다
+
+recall that 부탁 means favor. We are asking a 'favor' in this sense. Examples:
+
+김미라씨 좀 부탁하다 - may I talk to Mira Kim (on the phone?)
+
+시청 좀 부탁합니다 - To the city hall, please
+
+이거 좀 부탁합니다 - I'd like to have this, please.
+
+### 12.6 - In the middle of , under .. , in progress
+
+중 (中), means 'the middle'. Combined with some noun $N$, we say that $N$ is in progress by saying:
+
+> $N$중　
+
+For example:
+
+준비중 - preparation in progress
+
+공사중 - under construction
+
+시험중이에요. 조용히 해주세요. The exam is in progress. Please be quiet.
+
+### 13.1 - ㅎ irregular words
+
+These ones you just gotta remember. Verbs / adjective bases that end in ㅎ:
+
+> | Dic. form                 | meaning             | 아요/어요 ending | Noun-modifying form ($V_m$) |
+> | ------------------------- | ------------------- | ---------------- | --------------------------- |
+> | 이렇다 / 요렇다 ( collq.) | be this way         | 이래요/요래요    | 이런 / 요런                 |
+> | 그렇다                    | be that way         | 그래요           | 그런                        |
+> | 저렇다                    | be that way (there) | 저래요           | 저런                        |
+> | 어떻다                    | be a certain way    | 어때요           | 어떤                        |
+
+### 13.2 - Expressing change of state - to become
+
+For an adjective $A$, saying that it has become $A$ is done as follows:
+
+> $A_{\cancel{요}}$ 지다
+
+Note that we **normally say this in the past tense** (became). So 지다 becomes 졌다.
+
+경기가 요즘 많이 나빠졌어요. 
+
+영수하고 친해졌어요. 
+
+### 13.4 - Adjective + 게 "...ly" - advb
+
+Attaching to an adjective base $A_b$, we can transform an adjective to an adverb using:
+
+> $A_b$게
+
+Examples:
+
+> | Adjective | adverb   |
+> | --------- | -------- |
+> | 늦다      | 늦게     |
+> | 쉽다      | 쉽게     |
+> | 좋다      | 좋게     |
+> | 나쁘다    | 나쁘게   |
+> | 예쁘다    | 예쁘게   |
+> | 재미있다  | 재미있게 |
+> | 맛있다    | 맛있게   |
+> | 어떻다    | 어떻게   |
+> | 이렇다    | 이렇게   |
+> | 그렇다    | 그렇게   |
+> | 저렇다    | 저렇게   |
+
+맛있게 드세요. - Enjoy your meal.
+
+이렇게 하세요. - Do it like this.
+
+요즘 어떻게 지내세요. - How are you doing these days?
+
+### 13.5 - Polite suggestion using 지 그러세요
+
+To suggest doing $V$, we say:
+
+> $V_b$지 그러세요?
+
+More informally, we say:
+
+> $V_b$지 그래요?
+
+e.g. 같이 가지 그래? - Why don't you go together?
+
+김선생님께 부탁하지 그러세요? - Why don't you ask Mr Kim a favor? 
+
+### 13.6 - 반말
+
+There are some rules:
+
+> 1. By deleting 요 from verbs to obtain $V_{\cancel{요}}$, we transform polite speech to informal.
+> 2. The intimate style ending for future tense (으)ㄹ 거에요 is ...(으)ㄹ 거야. 
+> 3. The intimate style for $N$ 이에요/예요 is $N$ 이야
+> 4. Yes 네 becomes 응 (うん) and no is 아니 
+
+### 13.7 - Expressing reason using （으)니까
+
+니까 means because. For verbs,
+
+> $V_b$(으)니까,
+
+for nouns,
+
+> $N$(이)니까,
+
+note that the 아서,어서 form we learned before **cannot** be followed by a command / suggestion. 니까, however, **can be followed by this**.
+
+e.g.
+
+오늘은 바쁘니까 내일 만나요.  - Since I'm busy today, let's meet tomorrow.
+
+Therefore, the following pattern is commonly used:
+
+> $A_b$(으)니까 $B_b$-(으)세요
+
+which means "since $A$ is the case then please do $B$".
+
+눈이 많이 오니까 운전 조심하세요.
+
+음식이 모자라니까 더 주문하세요. - as the food is not enough, please order more.
+
+### 13.8 - Expressing indefinite selection ...(이)나 - or something
+
+Here, when (이)나 is placed after one noun $N$, it means  "$N$ or that sort"
+
+> $N$(이)나 
+
+차 마실까요? - shall we drink tea or something?
+
+테니스나 같이 칠까요? - shall we play tennis or something together?
+
+### 13.9 - I don't like doing - ...기가 싫다, I ___ doing .. 
+
+To say that you don't like doing $V$, we say:
+
+> $V_b$기가 싫다
+
+운동하기가 싫어 - I don't like working out
+
+설거지하기가 싫어요. - I don't like washing the dishes.
+
+Note that similar patterns can be used to **describe feelings towards actions.** For a feeling adjective $A$, we say that we feel $A$ towards doing $V$ by saying:
+
+> $V_b$기가 $A$
+
+e.g.
+
+수학숙제 하기가 좋아요. I like doing math homework.
+
+열역학을 공부하기가 어렵다. Thermodynamics is hard.
+
+지하철역이 가까워서 지하철 타기가 편해요. As the subway station is close, it's convenient to take the subway.
+
+### 13.10 - 잖아요. - "You know, don't you know"
+
+For verbs / adjectives, we say:
+
+> $V_b$ 잖아요
+
+For nouns, we say:
+
+> $N$ 이잖아요.
+
+왜 우산 가지고 왔어요? 
+
+-> 오늘 오후에 비가 오잖아요. - It's gna rain this afternoon, you know?
+
+### N/A - ~기 시작하다 - to start doing something
+
+to say that we're starting to do some action $V$, 
+
+> $V_b$기 시작하다
+
+Note that for adjectives $A$, we often use the $A_{\cancel{요}}$ 지다 grammar form (as per 13.2) as well:
+
+> $A_{\cancel{요}}$지기 시작하다
+
+e.g. 조용해지기 시작했어요 - it started getting quiet.
+
+### N/a - 위하다 - in order to, for the sake of
+
+FORMAL. Not really used in conversation.
+
+To say in order for $A$, we do $B$, the following is used:
+
+> $A_b$기 위해서, $B$.
+
+for nouns $N$, we just say:
+
+> $N$(ㄹ)을 위해서
+
+Note that sometimes, the 해서 is shortened to 해.
+
+e.g. 일본말 배우기 위해서, 이 책을 필요합니다.  - This book is needed to learn japanese.
