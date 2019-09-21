@@ -1204,7 +1204,7 @@ for nouns,
 
 > $N$(이)니까,
 
-note that the 아서,어서 form we learned before **cannot** be followed by a command / suggestion. 니까, however, **can be followed by this**.
+note that the 아서,어서 form we learned before **cannot** be followed by a command / suggestion. 니까, however, **can be and is often followed by this**.
 
 e.g.
 
@@ -1293,3 +1293,34 @@ for nouns $N$, we just say:
 Note that sometimes, the 해서 is shortened to 해.
 
 e.g. 일본말 배우기 위해서, 이 책을 필요합니다.  - This book is needed to learn japanese.
+
+### 14.1 - Confirming / Stressing the fact  - "it is that , is it that"
+
+To **confirm** / **stress** some action / adjective $V$, "it is that $V$ occurs. Is it that $V$ occurs?", we say:
+
+> $V_{m}$ 거예요
+
+where $V_m$ is the noun-modified form. Note that the 거 is pronounced as 'go' when it is preceded by a $V_m$ that ends in some sort of ㄴ.
+
+Examples:
+
+어디서 만난 거예요? - where is it that you met him?
+
+영화가 너무 지루한 거예요. - it is that the movie was so boring.
+
+요즘 너무 바쁜 거예요. 그래서 연락 못 드렸어요. - It is that I am so busy these days. So I wasn't able to contact you.
+
+### 14.3 - Describing one's past discovery or observation.
+
+Note that this is **only** for the **first person.** To say that we've discovered, saw, or experienced something (adjective / verb) $V$, we say:
+
+> $\text{present}$($V_b$)더라고요 
+
+where $\text{present}(V_b)$ is the present tense base of $V$. i.e. no past tense bases like 했다.
+
+e.g. 
+
+한과장님이 승진하시더라구요. - I found out that manager han had been promoted.
+
+김선생님이 키가 아주 크시더라구요. - I saw Mr Kim and He was very tall.
+
