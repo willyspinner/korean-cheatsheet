@@ -551,6 +551,8 @@ Recall that 보다 means to see. We can take it as a translation of "to try and 
 
 e.g. 김치를 먹어 보세요. Try to eat kimchi.
 
+**Note that this can also mean a "soft command".** We use this pattern to command someone to do something.
+
 When used with the past tense of 보다 (봤어요), it **expresses** **past** experience.
 
 examples.
@@ -609,7 +611,7 @@ Note that the conjugation of $V_{hb}$ is $V_b$(으)세요 (Recall that  this is 
 
 ### 7.5 Intention or supposition marker 
 
-We express intention using this marker. **NOTE that** we **can** use this with the **second** person. But I don't think we can use with third person.
+We express intention using this marker. **NOTE that** we **can** use this with the **first and second** person. But I don't think we can use with third person.
 
 > $V_b$ 겠다 (conj: 겠어요)
 
@@ -703,6 +705,8 @@ Note that 때문에 is pronounced 때메 in colloquial speach.
 
 날씨 때문에, 지금 안 가요. We can't go because of the weather.
 
+시험의 준비 때문에 놀 수 없다. 미안해. ー I can't play because I'm preparing for the exam. Sorry.
+
 ### 8.3 Expressing duration of time .. 동안 (for ... , during)
 
 For some action $A$ happening during time period $T$, we form:
@@ -712,8 +716,6 @@ For some action $A$ happening during time period $T$, we form:
 e.g. 일 년 동안 운동했어요. 
 
 ### 8.4. Conjecture or intention "will; be going to ..."
-
-”かもしれない” の感じ?
 
 One can indicate one's intention or conjecture using the below:
 
@@ -832,6 +834,12 @@ Examples:
 갑시가 Let's go.
 
 내일까지 일을 모두 끝냅시다.
+
+to say a suggestion NOT to do $V$, we use:
+
+> $V_b$지 맙시다
+
+This is a pattern that we will see in 9.2
 
 ### 9.1 Expressing "If one wants / intends to do..." (으)려면
 
@@ -1131,7 +1139,7 @@ These ones you just gotta remember. Verbs / adjective bases that end in ㅎ:
 > | 저렇다                    | be that way (there) | 저래요           | 저런                        |
 > | 어떻다                    | be a certain way    | 어때요           | 어떤                        |
 
-### 13.2 - Expressing change of state - to become
+### 13.2 - Expressing change of state - to become (~く/になる)
 
 For an adjective $A$, saying that it has become $A$ is done as follows:
 
@@ -1142,6 +1150,12 @@ Note that we **normally say this in the past tense** (became). So 지다 becomes
 경기가 요즘 많이 나빠졌어요. 
 
 영수하고 친해졌어요. 
+
+However, when we say that it will become ... (future tense), we use ㄹ 거예요.
+
+e..g 
+
+내일 다시 추워질 거예요. Tomorrow, it will become cold.
 
 ### 13.4 - Adjective + 게 "...ly" - advb
 
@@ -1310,17 +1324,189 @@ Examples:
 
 요즘 너무 바쁜 거예요. 그래서 연락 못 드렸어요. - It is that I am so busy these days. So I wasn't able to contact you.
 
+**반말 version:**
+
+> $V_m$ 거야
+
 ### 14.3 - Describing one's past discovery or observation.
 
 Note that this is **only** for the **first person.** To say that we've discovered, saw, or experienced something (adjective / verb) $V$, we say:
 
 > $\text{present}$($V_b$)더라고요 
 
-where $\text{present}(V_b)$ is the present tense base of $V$. i.e. no past tense bases like 했다.
+where $\text{present}(V_b)$ is the present tense base of $V$. i.e. **no** past tense bases like 했다.
 
 e.g. 
 
 한과장님이 승진하시더라구요. - I found out that manager han had been promoted.
 
 김선생님이 키가 아주 크시더라구요. - I saw Mr Kim and He was very tall.
+
+### N/A - pretending to do something 
+
+To say that we pretend to do $V$, we say:
+
+> $V_m$ 척 하다
+
+it is amazing how korean is really similar to japanese. In this case, 척 and ふりseem almost interchangeable.
+
+내가 한국어를 못하는 척 했다. - I pretended to not be able to speak korean.
+
+### 15.1 - expressing intention / something about to happen/ in an effort to, in order to 
+
+1. To express a plan or intention to do $V$, we say:
+
+> $V_b$(으)려고 하다
+
+examples:
+
+이번 여금에 한국에 가려고 해요. - I plan to go to Korea this summer.
+
+오늘부터 술울 끊으려고 해요. - I intend to quit drinking starting today.
+
+2. Let $\Alpha, \Beta$ be verbs. To express "In an effort / order to do $\Alpha$, one does $\Beta$", we say:
+
+> $\Alpha_b$(으)려고 $\Beta$. 
+
+examples:
+
+이 김선생님께 드리려고 샀어요. - I bought this to give to Mr Kim
+
+한국애서 일하려고 한국어를 공부해요. - I study korean to work in Korea.
+
+Also:
+
+3. it can also mean "be about to" (..るところ)。To say that $V$ is about to happen, we say:
+
+> $V_b$(으)려고 하다
+
+examples:
+
+지금 막 떠나려고 하는데요. - I am just about to leave now.
+
+### 15.2 - To do something for the benefit of someone
+
+recall that we've learned about 아/어 주다. Now, we introduce honorifics:
+
+| Giver to Beneficiary | grammar form | example                               |
+| -------------------- | ------------ | ------------------------------------- |
+| Equal                | 아/어 주다   | 마이클이 존한테 선물을 사 줬어요.     |
+| low to high          | 아/어 드리다 | 존이 사장님께 선물을 사 드렸어요      |
+| high to low          | 아/어 주시다 | 사장님께서 존한테 선물을 사 주셨어요. |
+
+examples:
+
+Here are some useful expressions (That I think we can use anywhere?):
+
+| pattern                         | translation              |
+| ------------------------------- | ------------------------ |
+| ...아/어 주세요                 | Please do ... for me     |
+| ...아/어 주시겠어요/            | Would you do ... for me? |
+| ...아/어 드릴까요?              | Shall I do ... for you?  |
+| ...아/어 드리겠습니다/드릴게요. | I will do ... for you    |
+
+Examples:
+
+문 좀 닫아 주시겠습니까?  - Would you please close the door for me?ドアを閉めてくれませんか。
+
+제가 점심을 사 드릴세요. - 私が昼ごはんを買ってあげます。
+
+An interesting pattern is used when thanking someone for doing $V$ for us. 
+
+> $V_{\cancel{요}}$ 주(셔/셨)서 감사합니다
+
+e.g.  초내해 주셔서 감사합니다 . - Thank you for inviting me.
+
+### 15.3 - Expression for duration of days.
+
+There are two ways to count day duration in korean.
+
+Sino korean (which we know already), and native. Note that koreans tend to use native but only up to 10 days. Sino is used afterwards,
+
+Using sino for all day duations is acceptable, though.
+
+| Number of days | Native Korean |
+| -------------- | ------------- |
+| 1              | 하루          |
+| 2              | 이틀          |
+| 3              | 사흘          |
+| 4              | 나흘          |
+| 5              | 닷새          |
+| 6              | 엿새          |
+| 7              | 이레          |
+| 8              | 여드레        |
+| 9              | 아흐레        |
+| 10             | 열흘          |
+
+### 16.1 Not A but B 말고
+
+if $A,B$ are nouns, then we use:
+
+> $A$ 말고 $B$
+
+But if $A,B$ are verbs, then we say:
+
+> $A_b$지 말고 $B$
+
+(recall the 지 마다 grammar form.)
+
+ Note that in colloquial speech, 말고 is **often pronounced** 말구.
+
+은행에 가지 말고 인터넷 뱅킹을 이용하세요. Don't go to the bank, use internet banking!
+
+증국 음식 말고 한국 음식 먹읍시다. - Let's eat Korean food, not chinese food.
+
+### 16.2 - Expressing availability and ability - 되다. 
+
+Noe that 되다 literally means to "become" but it can also mean:
+
+- to be available
+- to be operating okay
+- to work fine
+- to be able to (ability)
+
+지금 복사기 돼요? - Is the copier working now?
+
+여기 인터넷 돼요? - Is internet avilable here?
+
+민호는 영어랑 일어가 됩니다. - Minho can speak english and japanese.
+
+### 17.1 - Honorific formal polite ending
+
+Recall that $V_{hb} = V_{b}(으)시.$ With this in mind:
+
+| type of word | statement      | question        | suggestion (let's) | command (please do) |
+| ------------ | -------------- | --------------- | ------------------ | ------------------- |
+| verb         | $V_{hb}$ㅂ니다 | $V_{hb}$ㅂ니까? | $V_{hb}$ㅂ시다     | $V_{hb}ㅂ시오       |
+| adjective    | $A_{hb}$ㅂ니다 | $A_{hb}$ㅂ니까? | N/A                | N/A                 |
+| noun         | ...(이) 십니다 | ...(이) 십니까? | N/A                | N/A                 |
+
+For the past tense, we construct from the base.  We have:
+
+| type of past tense | statement         | question           |
+| ------------------ | ----------------- | ------------------ |
+| Verb / adjective   | $V_b$(으)셨습니다 | $V_b$(으)셨습니까? |
+| noun               | ...(이)셨습니다   | ...(이)셨습니까    |
+
+examples:
+
+사장님께서 지금 출발하십니다. - The company president is departing now.
+
+마감 시간을 지켜 주십시오. - please observe the deadline.
+
+몃 분이십니까? - How many people are there?
+
+### 17.2 - to "be scheduled to do"
+
+When we plan / are scheduled to do some verb $V$, we say:
+
+> $V_b$(으)ㄹ 예정이다
+
+recall that 이다 is the verb of "to be". 
+
+examples:
+
+을산에 있는 화사를 방문할 예정이에요. - I am scheduled to visit a company in Ulsan.
+
+내년 봄 미국에 갈 예정입니다.  - I plan to go to the US next spring.
 
